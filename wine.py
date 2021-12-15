@@ -15,7 +15,7 @@ st.set_page_config(page_title = "Wine Color and Score Classifier",
                    page_icon = ":wine_glass:",
                    layout = 'wide')
 
-wine_data = pd.read_csv("C:\\Users\\33761\\Desktop\\Projets Perso\\Streamlit Wine Classifier\\Wine_Quality_Data.csv")
+wine_data = pd.read_csv("Wine_Quality_Data.csv")
 
 st.sidebar.image("https://i.imgur.com/ngvyFpY.png")
 st.sidebar.title("")
