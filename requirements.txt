@@ -2,4 +2,4 @@ streamlit
 pandas
 numpy
 plotly
-sklearn
+sklearn ==1.1.1
